@@ -1,0 +1,9 @@
+/.devcontainer
+/.vscode
+/myesmodule.mjs
+/node_modules
+/package-lock.json
+/package.json
+/sayhello.js
+/test1.js
+/test2.mjs
